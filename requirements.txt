@@ -535,6 +535,7 @@ srsly==2.5.1
 stanio==0.5.1
 starlette==0.46.2
 statsmodels==0.14.4
+streamlit==1.43.1
 stringzilla==3.12.5
 stumpy==1.13.0
 sympy==1.13.1
